@@ -1,0 +1,17 @@
+{
+  "template": "https://github.com/Carlovo/straight_to_the_money",
+  "commit": "5184717d453f3a992d00b5cd3cb921583abc455c",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "Dict to REST",
+      "project_slug": "dicttorest",
+      "project_description": "Convert Python dicts to XML for RESTful APIs",
+      "author_name": "Carlo 'carlovo' van Overbeek",
+      "author_email": "carlovo@gmail.com",
+      "python_requirements": ">=3.9",
+      "_template": "https://github.com/Carlovo/straight_to_the_money"
+    }
+  },
+  "directory": null
+}

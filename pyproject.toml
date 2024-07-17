@@ -1,0 +1,18 @@
+[project]
+name = "dicttorest"
+version = "0.1.0"
+description = "Convert Python dicts to XML for RESTful APIs"
+authors = [
+    {name = "Carlo 'carlovo' van Overbeek", email = "carlovo@gmail.com"},
+]
+dependencies = []
+requires-python = ">=3.9"
+readme = "README.md"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
+
+[tool.pdm]
+distribution = true
